@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-con,main, footer{
+    width: 80%;
+    margin: auto;
+}
+.logo-text, .nav-con{
+    width: 50%;
+ margin: auto;
+}
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 50%;
+    height: 350px;
+}
+h1,h2{
+    color: brown;
+}
